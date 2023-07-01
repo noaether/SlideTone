@@ -1,0 +1,32 @@
+{
+  "name": "slidetone",
+  "version": "1.0.0",
+  "description": "SlideTone is a puzzle game where you slide and match tiles to solve musical patterns. Replicate sequences of notes using dynamic audio synthesis and visually associate them with randomly generated colors. Customize the game's difficulty by toggling note labels, instrument names, and tile colors. Built with PixiJS, JavaScript, and Web Audio API.",
+  "main": "js/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noaether/SlideTone.git"
+  },
+  "keywords": [
+    "game",
+    "puzzle",
+    "pixijs",
+    "web",
+    "audio",
+    "simon"
+  ],
+  "author": "Noa St-Onge",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/noaether/SlideTone/issues"
+  },
+  "homepage": "https://github.com/noaether/SlideTone#readme",
+  "dependencies": {
+    "pixi.js": "^7.2.4",
+    "tone": "^14.7.77"
+  }
+}
