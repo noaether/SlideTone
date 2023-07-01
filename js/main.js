@@ -1,5 +1,5 @@
 // Import PixiJS
-import * as PIXI from 'pixi.js';
+import PIXI from 'pixi.js';
 
 // Create the PixiJS application
 const app = new PIXI.Application({ width: 800, height: 600 });
